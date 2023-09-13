@@ -1,0 +1,94 @@
+.logoh4 {
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.footerlefttext {
+  color: #11142d;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  padding-bottom: 10px;
+  margin-top: 20px;
+  width: 427px;
+}
+
+.categorylinks {
+  text-decoration: none;
+  color: #11142d;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.ourstorediv {
+  width: 376px;
+  height: 120px;
+  border-radius: 14px;
+  background: #c4c4c4;
+}
+
+.location {
+  width: 300px;
+  font-size: 18px;
+  font-style: normal;
+  line-height: normal;
+  padding-top: 15px;
+}
+
+.viewmore {
+  color: #6c5dd3;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-decoration: none;
+}
+
+.subscribe {
+  border-radius: 32px;
+  background: #6c5dd3;
+  width: 75%;
+  height: 300px;
+  margin: 5% auto;
+}
+
+.subscribeh2 {
+  color: #fff;
+  text-align: center;
+  font-family: Cairo;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+  padding: 80px 250px 0 250px;
+}
+
+.subscribeinput {
+  border-radius: 14px 0px 0px 14px;
+  background: #7c6de3;
+  padding: 10px 200px 10px 20px;
+  border: 1px solid #7c6de3;
+  margin: 30px 0 0 250px;
+}
+
+.subscribeinput::placeholder {
+  color: #e2e2e2;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.subscribebutton {
+  border-radius: 0px 14px 14px 0px;
+  background: #fff;
+  box-shadow: 0px 7px 20px 0px rgba(141, 40, 173, 0.15);
+  padding: 10px 20px;
+  border: 1px solid #fff;
+  color: #11142d;
+  font-style: normal;
+  font-weight: 700;
+}

@@ -1,0 +1,52 @@
+.logoh4 {
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.navbarsearchleft {
+  display: flex;
+  gap: 10px;
+  padding: 9px 30px;
+  border-radius: 14px 0px 0px 14px;
+  border: 1px solid #e1e1e1;
+}
+
+.navbarsearchright {
+  padding: 10px 150px 10px 20px;
+  border: 1px solid #e1e1e1;
+}
+
+.navbarsearchright::placeholder {
+  color: #aaa;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.navbarsearchbutton {
+  background-color: #fff;
+  padding: 9px 15px;
+  border: 1px solid #e1e1e1;
+}
+
+.loginbutton {
+  color: #6c5dd3;
+  font-size: 18px;
+  border-radius: 14px;
+  background: #f0eeff;
+  padding: 8px 15px;
+  border: 1px solid #e1e1e1;
+}
+
+.signupbutton {
+  color: #fff;
+  font-size: 18px;
+  border-radius: 14px;
+  background: #6c5dd3;
+  padding: 8px 15px;
+  border: 1px solid #e1e1e1;
+  box-shadow: 0px 25px 33px 0px rgba(108, 93, 211, 0.25);
+}

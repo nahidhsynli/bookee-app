@@ -1,0 +1,93 @@
+.flashsalep {
+  padding: 0 400px;
+  margin: 20px 0px;
+}
+
+.flashsaleh1 {
+  color: #11142d;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.countdownh1 {
+  color: #ff754c;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.flashcardh5 {
+  color: #11142d;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 15px;
+}
+
+.flashcardlink {
+  color: #6c5dd3;
+  font-size: 15px;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.flashprice {
+  color: #6c5dd3;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding: 10px;
+}
+
+.normalprice {
+  color: #aaa;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-decoration-line: line-through;
+}
+
+.flashcardtop {
+  width: 229px;
+  height: 321.098px;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background: #c4c4c4;
+  padding: 25px 0px;
+}
+
+.bookrating {
+  color: #ff754c;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.bookflashprice {
+  color: #11142d;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.booknormalprice {
+  color: #aaa;
+  font-size: 16px;
+  font-weight: 600;
+  text-decoration-line: line-through;
+}
+
+.fiftyper {
+  color: #fff;
+  text-align: center;
+  font-size: 26px;
+  font-weight: 600;
+  width: 95px;
+  border-radius: 0px 20px 20px 0px;
+  background: #ff754c;
+  padding: 10px 20px;
+}

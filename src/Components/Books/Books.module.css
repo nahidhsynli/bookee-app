@@ -1,0 +1,391 @@
+.homelink {
+  color: #6c5dd3;
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.bookslink {
+  color: #aaa;
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.bestsales {
+  text-decoration: none;
+  color: #11142d;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.bestsales:active {
+  color: #6c5dd3;
+}
+
+.salesnumber {
+  color: #8d8d8d;
+  font-size: 18px;
+  font-weight: 700;
+  display: inline;
+}
+
+.viewmore {
+  text-decoration: none;
+  color: #6c5dd3;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+  margin: 40px;
+}
+
+.editorspicks {
+  border-radius: 14px;
+  border: 1px solid #f0f0f0;
+  background: #fff;
+  padding: 30px;
+}
+
+.choosepublisher {
+  border-radius: 14px;
+  border: 1px solid #f0f0f0;
+  background: #fff;
+  padding: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.shopbycategory {
+  border-radius: 14px;
+  border: 1px solid #f0f0f0;
+  background: #fff;
+  padding: 30px;
+}
+
+.checkboxs {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.refinebutton {
+  border-radius: 14px;
+  background: #6c5dd3;
+  border: 1px solid #6c5dd3;
+  padding: 15px 70px;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.resetbutton {
+  border-radius: 14px;
+  border-radius: 14px;
+  border: 1px solid #f0e4f4;
+  padding: 15px 70px;
+  color: #aaa;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.bookstime {
+  text-decoration: none;
+  color: #11142d;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.booksnavbar {
+  display: flex;
+  justify-content: space-between;
+  border-radius: 14px;
+  border: 1px solid #f0f0f0;
+  padding: 20px;
+  margin-top: 60px;
+}
+
+.navbarrright {
+  display: flex;
+  gap: 7px;
+  border-left: 1px solid #f0f0f0;
+}
+
+.booksempty {
+  height: 321.098px;
+  border-radius: 20px;
+  background: #c4c4c4;
+}
+
+.booksgrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 20px;
+}
+
+.heartanchor {
+  font-size: 30px;
+  margin: 10% 0 0 80%;
+  padding: 2px 5px;
+  background-color: #fff;
+  border-radius: 14px;
+}
+
+.heartanchor:hover {
+  border-radius: 14px;
+  background: var(--Primary, #6c5dd3);
+}
+
+.listheartanchor {
+  font-size: 30px;
+  padding: 10px 15px;
+  background-color: #fff;
+  border-radius: 14px;
+}
+.listheartanchor:hover {
+  border-radius: 14px;
+  background: var(--Primary, #6c5dd3);
+}
+
+.booksgridlink {
+  color: #6c5dd3;
+  font-size: 14px;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.addtocardbutton {
+  background-color: #6c5dd3;
+  border-radius: 14px;
+  padding: 10px 15px 40px 14px;
+  text-align: center;
+  border: 1px solid #6c5dd3;
+  display: none;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.bookone {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 7px;
+  padding: 15px;
+  border-radius: 14px;
+  border: 1px solid #f0f0f0;
+  margin-bottom: 20px;
+}
+
+.bookone:hover {
+  .booksgridlink,
+  .booksgridrating {
+    display: none;
+  }
+  .addtocardbutton {
+    display: inline;
+  }
+  box-shadow: 0px 25px 33px 0px rgba(108, 93, 211, 0.25);
+}
+
+/* Books on sale */
+
+.flashsalep {
+  padding: 0 400px;
+  margin: 20px 0px;
+}
+
+.flashsaleh1 {
+  color: #11142d;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.flashcardh5 {
+  color: #11142d;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 15px;
+}
+
+.flashcardlink {
+  color: #6c5dd3;
+  font-size: 15px;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.flashprice {
+  color: #6c5dd3;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding: 10px;
+}
+
+.normalprice {
+  color: #aaa;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-decoration-line: line-through;
+}
+
+.flashcardtop {
+  width: 229px;
+  height: 321.098px;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background: #c4c4c4;
+  padding: 25px 0px;
+}
+
+.bookrating {
+  color: #ff754c;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.bookflashprice {
+  color: #11142d;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.booknormalprice {
+  color: #aaa;
+  font-size: 16px;
+  font-weight: 600;
+  text-decoration-line: line-through;
+}
+
+.fiftyper {
+  color: #fff;
+  text-align: center;
+  font-size: 26px;
+  font-weight: 600;
+  width: 95px;
+  border-radius: 0px 20px 20px 0px;
+  background: #ff754c;
+  padding: 10px 20px;
+}
+
+/* Quick delivery */
+
+.quickdeliveryleft {
+  border-radius: 14px;
+  background: #f0eeff;
+  padding: 15px;
+}
+
+.quickdeliveryp {
+  color: #aaa;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 90%;
+}
+
+/* Book List */
+
+.bookslistitem {
+  border-radius: 14px;
+  border: 1px solid #f0f0f0;
+  padding: 15px;
+  margin-top: 10px;
+}
+
+.bookslista {
+  color: #6c5dd3;
+}
+.bookslista:active {
+  color: black;
+}
+
+.bookslistempty {
+  width: 100%;
+  height: 321.098px;
+  border-radius: 20px;
+  background: #c4c4c4;
+}
+
+.ratingnumber {
+  color: #11142d;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.reviewnumber {
+  color: #aaa;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.discountone {
+  color: #ff754c;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 14px;
+  border: 1px solid #ff754c;
+  padding: 7px;
+}
+
+.discountthree {
+  border-radius: 14px;
+  background: #f0f0f0;
+  color: #aaa;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 10px 15px;
+  border: 1px solid #f0f0f0;
+}
+
+.booklistprice {
+  display: flex;
+  align-items: center;
+  padding: 13px;
+  gap: 15px;
+  justify-content: space-between;
+}
+
+.writtenbyheader {
+  color: #aaa;
+  font-size: 14px;
+  font-weight: 400;
+  padding: 0;
+  margin: 0;
+}
+
+.writtenbytext {
+  color: #11142d;
+  font-size: 18px;
+  font-weight: 600;
+  padding-top: 5px;
+  margin: 0;
+}
+
+.listaddtocardbutton {
+  background-color: #6c5dd3;
+  border-radius: 14px;
+  padding: 10px 40px 40px 40px;
+  border: 1px solid #6c5dd3;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+}
+.booknamelink {
+  color: #11142d;
+  font-size: 20px;
+  font-weight: 700;
+  text-decoration: none;
+}

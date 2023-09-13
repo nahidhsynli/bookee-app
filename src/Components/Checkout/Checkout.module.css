@@ -1,0 +1,65 @@
+.homelink {
+  color: #6c5dd3;
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.bookslink {
+  color: #aaa;
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.steps {
+  font-weight: 700;
+  padding: 50px 200px;
+}
+
+.headings {
+  color: #11142d;
+  font-size: 35px;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+
+.buyerinfofirst {
+  display: grid;
+  grid-template-rows: repeat(2, 1fr);
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.customselect {
+  background-color: #f0f0f0;
+  border-radius: 10px;
+  padding: 10px 15px;
+  width: 100%;
+  border: 1px solid #f0f0f0;
+  margin-top: 5px;
+}
+
+.textarea {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  border-radius: 10px;
+  margin-top: 5px;
+}
+
+.quickdeliveryleft {
+  border-radius: 14px;
+  background: #f0eeff;
+  padding: 15px;
+}
+
+.quickdeliveryp {
+  color: #aaa;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 90%;
+}

@@ -1,0 +1,244 @@
+.backtoschool {
+  border-radius: 24px;
+  background: #edfdec;
+  padding: 30px;
+  width: 75%;
+  margin: 20px 0 20px 40px;
+}
+
+.backtoschoolh4 {
+  color: #6c5dd3;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 4px;
+  padding: 0px 40px 0px 40px;
+}
+
+.backtoschoolh1 {
+  color: #11142d;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding: 0px 40px 0px 40px;
+}
+
+.backtoschoolh2 {
+  color: #11142d;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  padding: 0px 40px 10px 40px;
+}
+
+.backtoschoolp {
+  color: #11142d;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding: 0px 40px 10px 40px;
+  width: 512px;
+}
+
+.getdealbutton {
+  border-radius: 14px;
+  background: #6c5dd3;
+  box-shadow: 0px 25px 33px 0px rgba(108, 93, 211, 0.25);
+  margin-left: 40px;
+  padding: 15px 30px;
+  color: #fff;
+  font-size: 18px;
+  display: flex;
+  gap: 30px;
+  align-items: end;
+  border: 1px solid #6c5dd3;
+  text-decoration: none;
+}
+
+.otherpromos {
+  border-radius: 24px;
+  background: #edfdec;
+  color: #11142d;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 15px 30px;
+  border: 1px solid #000;
+}
+
+.sliderbutton {
+  padding: 10px;
+  background-color: #6c5dd3;
+  border-radius: 10px;
+  border: 1px solid #edfdec;
+}
+
+.sliderbutton:active {
+  background-color: #edfdec;
+}
+
+.bestseller {
+  width: 25%;
+  border-radius: 24px;
+  background: #9c9c9c;
+  margin: 20px 40px 20px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.bestsellerh1 {
+  color: #fff;
+  text-align: center;
+  font-size: 40px;
+  padding: 50px 40px 0 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.bestsellerh5 {
+  color: #fff;
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.bestsellercard {
+  border-radius: 14px;
+  border: 2px solid #fff;
+  background: #c4c4c4;
+  margin-top: 30px;
+  width: 206px;
+  height: 291px;
+  flex-shrink: 0;
+  box-shadow: 0px 25px 33px 0px rgba(255, 255, 255, 0.25);
+}
+
+.bestsellerh3 {
+  color: #fff;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 20px;
+}
+
+.bestsellerh4 {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.bestsellerbutton {
+  display: flex;
+  gap: 10px;
+  padding: 10px 15px;
+  border-radius: 14px;
+  background: #fff;
+  border: 1px solid #fff;
+}
+
+.bestsellerbuttonleft {
+  color: #aaa;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-decoration-line: line-through;
+}
+
+.bestsellerbuttonright {
+  color: #11142d;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.quickdeliveryleft {
+  border-radius: 14px;
+  background: #f0eeff;
+  padding: 15px;
+}
+
+.quickdeliveryp {
+  color: #aaa;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 90%;
+}
+
+.recomendedcard {
+  width: 50%;
+  border-radius: 14px;
+  background: #ff764c1f;
+  padding: 0px 30px 50px 50px;
+}
+
+.recomendedcardsecond {
+  width: 50%;
+  border-radius: 14px;
+  background: #3da1ff2e;
+  padding: 0px 30px 50px 50px;
+}
+
+.recomendedbox {
+  border-radius: 14px;
+  border: 2px solid #fff;
+  background: #c4c4c4;
+  width: 140px;
+  height: 197.767px;
+}
+
+.specialoffersp {
+  padding: 0 400px;
+  color: #11142d;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.specialofferscardtop {
+  width: 400px;
+  height: 306px;
+  border-radius: 14px;
+  background: #c4c4c4;
+}
+
+.specialofferscardtbottom {
+  padding: 30px 20px;
+  border-radius: 14px;
+  border: 1px solid #f0f0f0;
+  background: #fff;
+}
+
+.offerlink {
+  color: #6c5dd3;
+  font-size: 16px;
+  font-weight: 600;
+  text-decoration: none;
+  padding: 5px 10px;
+  border-radius: 14px;
+  background: #f0eeff;
+}
+
+.addtocardbutton {
+  background: #6c5dd3;
+  color: #fff;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding: 15px 25px;
+  border-radius: 14px;
+  border: 1px solid #6c5dd3;
+}
